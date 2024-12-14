@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.relative{
+    position: relative;
+    margin: 80px;
+    width: 250px;
+    height: 250px;
+    background-color: steelblue;
+}
+
+.absolute{
+    position: absolute;
+    width: 90px;
+    height: 90px;
+    background-color: orange;
+}
+.absolute1{
+    top: 50PX;
+    left: 10px;
+    background-color: burlywood;
+}
+.absolute2{
+    top: 20PX;
+    left: 30px;
+    background-color: darkolivegreen;
+}
